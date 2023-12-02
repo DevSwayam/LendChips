@@ -55,11 +55,11 @@ In summary, the Cross-Chain Lending and Borrowing DApp introduces a game-changin
 - **Multi-Chain Token Withdrawal:** Withdraw tokens from any available chain.
 - **Multi-Chain Loan Repayment:** Repay loans on any chain.
 
-## Core Features Using HyperLane Messaging
+## Core Features Using CCIP Arbitary Data Sending
 
 ### 1. Deposit NFT
 
-The `depositNFT` function allows users to deposit NFTs on multiple chains available on HyperLane. When a user deposits an NFT, the smart contract calculates its worth and adds it to their borrowing power, which can be used to borrow tokens on any chain. Suppose a user deposits NFTs on multiple chains to take a massive loan, then their borrowing power is incremented.
+The `depositNFT` function allows users to deposit NFTs on multiple chains compatible with Chainlink CCIP. When a user deposits an NFT, the smart contract calculates its worth and adds it to their borrowing power, which can be used to borrow tokens on any chain. Suppose a user deposits NFTs on multiple chains to take a massive loan, then their borrowing power is incremented.
 
 ```solidity
 // Solidity code for depositNFT function
