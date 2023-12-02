@@ -1,7 +1,7 @@
 
 # Cross-Chain Lending and Borrowing DApp
 
-### This project is a submission to Constelation hackathon.
+### This project is a submission to Chainlink Constelation hackathon.
 
 ![Project Logo](https://github.com/TechieeGeeeks/HyperHack/assets/99035115/c92a05b9-0262-4b67-b3fa-684710c76585)
 
