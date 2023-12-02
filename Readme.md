@@ -23,7 +23,7 @@ For a detailed explanation of how this DApp works, please refer to the following
 
 - [Project Explanation](https://drive.google.com/file/d/1EzMPTAwo9_JVxzh8l3koMYeXHM3NawLT/view?usp=drive_link)
 - [Cross-Chain Lending and Borrowing Demo](https://drive.google.com/file/d/1no3zu4GqmTOPO7R6E-Tu38X8ROKYKJZE/view?usp=drive_link)
-
+- [The Steps to do Demo at Your Local Machine] (https://docs.google.com/document/d/1Gw7Oj2CHbQZI9IUQdoP9PW27B5H_mf01z7Yr8Wx-NlA/edit?usp=sharing)
 These videos provide an in-depth understanding of the project, including setup instructions and an overview of its features.
 
 ## Usage
